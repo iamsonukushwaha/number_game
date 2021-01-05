@@ -1,6 +1,12 @@
 # Best Number Game 
 
 
+*Run live on* **[https://repl.it/@flyingsonu736/numberGame](https://repl.it/@flyingsonu736/numberGame#index.js)**
+
+**OR**
+
+> Download this Repo 
+
 **open your teminal and run this below command**
 ```bash
 $ node random_question.js
