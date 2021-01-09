@@ -1,5 +1,6 @@
 # Best Number Game 
 
+[https://www.npmjs.com/package/numbers-game](https://www.npmjs.com/package/numbers-game)
 
 *Run live on* **[https://repl.it/@flyingsonu736/numberGame](https://repl.it/@flyingsonu736/numberGame#index.js)**
 
@@ -9,7 +10,7 @@
 
 **open your teminal and run this below command**
 ```bash
-$ node random_question.js
+$ node test.js
 ```
 
 **run above command to get different questions every time**
