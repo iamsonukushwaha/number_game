@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/flyingsonu122/number_game.git"
   },
-  "author": "",
+  "author": "Sonu kumar kushwaha ",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/flyingsonu122/number_game/issues"
   },
-  "homepage": "https://github.com/flyingsonu122/number_game#readme"
+  "homepage": "https://github.com/flyingsonu122/number_game#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
 }
