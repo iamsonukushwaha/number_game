@@ -1,6 +1,6 @@
 # Best Number Game 
 
-[![NPM VERSION](https://img.shields.io/npm/v/numbers-game.svg?style=flat&logo=npm)](https://www.npmjs.com/package/numbers-game)  [![NPM MODULE](https://img.shields.io/badge/numbers-game-orange.svg?style=flat&logo=node.js)](https://github.com/flyingsonu122/number_game) [![npm collaborators](https://img.shields.io/npm/collaborators/numbers-game.svg?logo=npm)](https://www.npmjs.com/package/numbers-game) [![Snyk Vulnerabilities for npm package version](https://img.shields.io/snyk/vulnerabilities/npm/numbers-game.svg?color=9cf&logo=snyk)](https://www.npmjs.com/package/numbers-game) [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/number_game.svg?logo=github)](https://github.com/flyingsonu122/number_game/issues)
+[![NPM VERSION](https://img.shields.io/npm/v/numbers-game.svg?style=flat&logo=npm)](https://www.npmjs.com/package/numbers-game)  [![NPM MODULE](https://img.shields.io/badge/numbers-game-orange.svg?style=flat&logo=node.js)](https://github.com/flyingsonu122/number_game) [![npm collaborators](https://img.shields.io/npm/collaborators/numbers-game.svg?logo=npm)](https://www.npmjs.com/package/numbers-game)  [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/number_game.svg?logo=github)](https://github.com/flyingsonu122/number_game/issues)
 
 **💡 A simple [NPM](https://www.npmjs.com/package/numbers-game) Package which returns  [Best Number Game](https://github.com/flyingsonu122/number_game). Play with It and stay motivated! ✌️ 🌸**
 
