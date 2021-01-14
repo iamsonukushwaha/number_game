@@ -1,6 +1,6 @@
 {
   "name": "numbers-game",
-  "version": "1.1.2",
+  "version": "1.2.2",
   "description": "Best Number Game. Play with It and stay motivated!",
   "main": "index.js",
   "scripts": {
