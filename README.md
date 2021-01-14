@@ -1,13 +1,19 @@
 # Best Number Game 
 
+**💡 A simple [NPM](https://www.npmjs.com/package/numbers-game) Package which returns  [Best Number Game](https://github.com/flyingsonu122/number_game). Play with It and stay motivated! ✌️ 🌸**
+
 [![NPM VERSION](https://img.shields.io/npm/v/numbers-game.svg?style=flat&logo=npm)](https://www.npmjs.com/package/numbers-game)  [![NPM MODULE](https://img.shields.io/badge/numbers-game-orange.svg?style=flat&logo=node.js)](https://github.com/flyingsonu122/number_game) [![npm collaborators](https://img.shields.io/npm/collaborators/numbers-game.svg?logo=npm)](https://www.npmjs.com/package/numbers-game)  [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/number_game.svg?logo=github)](https://github.com/flyingsonu122/number_game/issues)
 
-**💡 A simple [NPM](https://www.npmjs.com/package/numbers-game) Package which returns  [Best Number Game](https://github.com/flyingsonu122/number_game). Play with It and stay motivated! ✌️ 🌸**
+
+**Click [here](https://www.npmjs.com/package/numbers-game)** to view this package on **NPM** registry. Check the homepage **[here](https://flyingsonu122.github.io/number_game/)**.
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/number_game.svg?logo=github&style=social)](https://www.npmjs.com/package/numbers-game) [![npm](https://img.shields.io/npm/dy/numbers-game.svg?logo=npm&style=social)](https://www.npmjs.com/package/numbers-game) [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/number_game.svg?logo=git&style=social)](https://github.com/flyingsonu122/number_game) [![GitHub top language](https://img.shields.io/github/languages/top/flyingsonu122/number_game.svg?logo=javascript&logoColor=yellow&style=social)](https://github.com/flyingsonu122/number_game) [![Maintenance](https://img.shields.io/maintenance/yes/2021.svg?logo=npm&style=social)](https://github.com/flyingsonu122/number_game)
 
 
-**Click [here](https://www.npmjs.com/package/numbers-game)** to view this package on **NPM** registry. Check the homepage **[here](https://flyingsonu122.github.io/number_game/)**.
+## Youtube demo link
+
+**[https://youtu.be/zzlWTHUZg0g](https://youtu.be/zzlWTHUZg0g)**
+
 
 ## Getting started
 
@@ -74,9 +80,11 @@ $ node demo.js
 *Run it live on* **[https://repl.it/@flyingsonu736/numberGame](https://repl.it/@flyingsonu736/numberGame#random_question.js)**
 
 
+
+
 <br><br>
 
-**&copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
+**MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
 
 **Thanks!**
 
@@ -98,7 +106,3 @@ Thank you for being here! You can find my other project **[here](https://github.
 	
 	
 </p>
-
-
-<p>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zzlWTHUZg0g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
