@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "numbers-game": "^1.0.0"
+    "numbers-game": "^1.1.1"
   }
 }
