@@ -16,8 +16,6 @@ let answer = f;
 let count = 0;
 
 
-
-
 module.exports.play = function () {
 
     rl.question(`What is ${ num1 } ${o} ${ num2 } ? \n`, (userInput) => {

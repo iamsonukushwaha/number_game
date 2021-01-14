@@ -1,7 +1,7 @@
 {
   "name": "numbers-game",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.1.1",
+  "description": "Best Number Game. Play with It and stay motivated!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,13 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/flyingsonu122/number_game.git"
   },
-  "author": "Sonu kumar kushwaha ",
-  "license": "ISC",
+  "author": "Sonu kumar kushwaha",
+  "keywords": [
+    "numbers-game",
+    "numbers",
+    "game"
+  ],
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/flyingsonu122/number_game/issues"
   },
-  "homepage": "https://github.com/flyingsonu122/number_game#readme",
-  "dependencies": {
-    "readline": "^1.3.0"
-  }
+  "homepage": "https://github.com/flyingsonu122/number_game#readme"
 }
