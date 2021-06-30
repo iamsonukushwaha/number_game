@@ -20,7 +20,7 @@
 [![NPM](https://nodei.co/npm/numbers-game.png?compact=true)](https://www.npmjs.com/package/numbers-game)
 
 ```bash
-$ npm install numbers-game
+npm install numbers-game
 ```
 
 ## Installation
@@ -37,7 +37,7 @@ Installation is done using the
 **[`npm install`](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)** command:
 
 ```bash
-$ npm install numbers-game
+npm install numbers-game
 ```
 
 ## Usage
@@ -62,15 +62,17 @@ game.play();
 To view the examples, clone the **number_game** repo and install the dependencies:
 
 ```bash
-$ git clone https://flyingsonu122.github.io/number_game.git
-$ cd examples
-$ npm install
+git clone https://flyingsonu122.github.io/number_game.git
+
+cd examples
+
+npm install
 ```
 
 Then run the **demo.js**:
 
 ```bash
-$ node demo.js
+node demo.js
 ```
 
 <br>
