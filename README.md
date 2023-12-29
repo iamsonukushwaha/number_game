@@ -2,9 +2,6 @@
 
 
 
-
-
-
 **Click [here](https://www.npmjs.com/package/numbers-game)** to view this package on **NPM** registry. 
 
 ## Youtube demo link
